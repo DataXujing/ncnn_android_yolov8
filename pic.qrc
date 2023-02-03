@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/ai.png</file>
+        <file>assets/icon.png</file>
+        <file>assets/ManjaroMix.qss</file>
+        <file>model/yolov8s_opt.bin</file>
+        <file>model/yolov8s_opt.param</file>
+    </qresource>
+</RCC>
