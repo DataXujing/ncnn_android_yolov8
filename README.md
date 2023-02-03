@@ -57,4 +57,4 @@ ncnnoptimize.exe yolov8s.param yolov8s.bin yolov8s_opt.param yolov8s_opt.bin 655
 
 ### 4.download apk
 
-+ apk下载地址：
++ apk下载地址：https://github.com/DataXujing/ncnn_android_yolov8/releases
